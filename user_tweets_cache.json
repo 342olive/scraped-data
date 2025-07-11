@@ -599,5 +599,19 @@
     "date": "2025-07-10T11:01:22.000Z",
     "source": "coinbureau",
     "type": "user"
+  },
+  {
+    "id": "1595673091803226112",
+    "text": "\"Binance is not a Chinese company, we are not related to China at all.\"\n\nCEO Changpeng \"CZ\" Zhao (@cz_binance), who is considering a bid for assets of bankrupt crypto firm Voyager, said on @BloombergTV his company is mistakenly believed to be Chinese \"because I look Chinese\"",
+    "date": "2022-11-24T06:58:05.000Z",
+    "source": "crypto",
+    "type": "user"
+  },
+  {
+    "id": "1392888177363406852",
+    "text": "BREAKING: Binance, the world's biggest crypto exchange, is under investigation by the Justice Department and IRS",
+    "date": "2021-05-13T17:03:14.000Z",
+    "source": "crypto",
+    "type": "user"
   }
 ]
